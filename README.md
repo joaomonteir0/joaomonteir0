@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @joaomonteir0
+- 👀 I'm a Computer Science and Engineering student, interested in web development.
+- 🌱 I’m currently learning javascript, java, python, c and c++.
