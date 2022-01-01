@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying **Computer Science and Engineering**
 
-- 🌱 I’m currently learning **Vue.js, C++, Java, MIPS Assembly**
+- 🌱 I’m currently learning **React, C++, Java, MIPS Assembly**
 
 - 👨‍💻 All of my projects are available at [https://github.com/joaomonteir0](https://github.com/joaomonteir0)
 
