@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/joaomonteir0](https://github.com/joaomonteir0)
 
-- 💬 Ask me about **Javascript, Lua**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **joaomonteir5@gmail.com**
 
