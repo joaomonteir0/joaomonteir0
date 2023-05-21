@@ -5,4 +5,5 @@
 
 🔸 Email: **joaomonteir5@gmail.com**
 🔸 [Linkedin](https://www.linkedin.com/in/joaomonteiro02/)
+🔸 [Curriculum Vitae](https://drive.google.com/file/d/1YS6XQ-usQGffFwt_jIXi3Mha1MEPmq-l/view?usp=sharing)
  
