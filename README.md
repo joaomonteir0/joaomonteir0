@@ -1,4 +1,4 @@
-- I’m currently studying **Computer Science and Engineering**
+- I’m currently studying **how to drink beer effectively**
 
 <br>    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomonteir0&show_icons=true&theme=radical)
 
